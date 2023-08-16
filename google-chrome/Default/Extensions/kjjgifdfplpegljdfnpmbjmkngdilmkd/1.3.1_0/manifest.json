@@ -1,0 +1,51 @@
+{
+   "author": "Simon Lydell",
+   "background": {
+      "scripts": [ "browser-polyfill.js", "background.js" ]
+   },
+   "browser_action": {
+      "browser_style": true,
+      "default_icon": {
+         "128": "icons/png-$normal/128.png",
+         "16": "icons/png-$normal/16.png",
+         "256": "icons/png-$normal/256.png",
+         "32": "icons/png-$normal/32.png",
+         "48": "icons/png-$normal/48.png",
+         "64": "icons/png-$normal/64.png",
+         "96": "icons/png-$normal/96.png"
+      },
+      "default_popup": "popup.html"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "browser-polyfill.js", "worker.js" ],
+      "match_about_blank": true,
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   }, {
+      "js": [ "browser-polyfill.js", "renderer.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Click with your keyboard.",
+   "homepage_url": "https://lydell.github.io/LinkHints",
+   "icons": {
+      "128": "icons/png-$normal/128.png",
+      "16": "icons/png-$normal/16.png",
+      "256": "icons/png-$normal/256.png",
+      "32": "icons/png-$normal/32.png",
+      "48": "icons/png-$normal/48.png",
+      "64": "icons/png-$normal/64.png",
+      "96": "icons/png-$normal/96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhIYY5Fm2qNJCi0KptPtmgCa/kBvC9QvxbBJ8tP++yLgms7rPfwbkY8VaBAKdlyhmawqks0Sz1wOQIkOgHxtmEJgJPNtOBFOsv7romsTbWL9A8+L+TCfRuIn1OTurSdNnunrAvgBFNZgmbPjJnVk8pOx+CHsXPDtqFf3I+CaSnKhzrZTDZs5B1lSOgQuEvjtwfB7Zb5pql7uIfE21gpv6vC8ttvyO1T8STxBhy3FsoTCvU0mxstEhFZTl7nNnVhWFhk00q76++NwxQy2mZdiUZvXO+Wcfg8cHwXALM7RDwsPGnBhNxb+WNX3VRRXrTFyT3hDxuTCtL5t11ixzIQ3yKwIDAQAB",
+   "manifest_version": 2,
+   "name": "Link Hints",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "options.html"
+   },
+   "permissions": [ "\u003Call_urls>", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.3.1"
+}

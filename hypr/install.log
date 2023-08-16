@@ -1,0 +1,12 @@
+[13:22:35 2023-08-16] FETCHING Version 2.22.2
+[13:22:35 2023-08-16] CREATING /home/yunz/.spicetify
+[13:22:35 2023-08-16] DOWNLOADING https://github.com/spicetify/spicetify-cli/releases/download/v2.22.2/spicetify-2.22.2-linux-amd64.tar.gz
+[13:22:38 2023-08-16] EXTRACTING /home/yunz/.spicetify/spicetify.tar.gz
+[13:22:38 2023-08-16] SETTING EXECUTABLE PERMISSIONS TO /home/yunz/.spicetify/spicetify
+[13:22:38 2023-08-16] REMOVING /home/yunz/.spicetify/spicetify.tar.gz
+[13:22:38 2023-08-16] APPENDING /home/yunz/.spicetify to PATH in /home/yunz/.bashrc
+[13:22:38 2023-08-16] Restart your shell to have spicetify in your PATH.
+[13:22:38 2023-08-16] APPENDING /home/yunz/.spicetify to PATH in /home/yunz/.bash_profile
+[13:22:38 2023-08-16] Restart your shell to have spicetify in your PATH.
+[13:22:38 2023-08-16] spicetify v2.22.2 was installed successfully to /home/yunz/.spicetify
+[13:22:38 2023-08-16] Run 'spicetify --help' to get started

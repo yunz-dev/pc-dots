@@ -1,0 +1,15 @@
+2023/08/16-12:44:41.117 2dc Reusing MANIFEST /home/yunz/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/16-12:44:41.117 2dc Recovering log #3
+2023/08/16-12:44:41.140 2dc Reusing old log /home/yunz/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2023/08/16-12:47:09.303 2dd Level-0 table #5: started
+2023/08/16-12:47:09.322 2dd Level-0 table #5: 1397120 bytes OK
+2023/08/16-12:47:09.324 2dd Delete type=0 #3
+2023/08/16-13:20:31.248 2dd Level-0 table #7: started
+2023/08/16-13:20:31.268 2dd Level-0 table #7: 1286362 bytes OK
+2023/08/16-13:20:31.270 2dd Delete type=0 #4
+2023/08/16-13:25:41.802 2dd Compacting 1@1 + 1@2 files
+2023/08/16-13:25:41.815 2dd Generated table #8@1: 606 keys, 61555 bytes
+2023/08/16-13:25:41.815 2dd Compacted 1@1 + 1@2 files => 61555 bytes
+2023/08/16-13:25:41.816 2dd compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/16-13:25:41.816 2dd Delete type=2 #5
+2023/08/16-13:25:41.816 2dd Delete type=2 #7

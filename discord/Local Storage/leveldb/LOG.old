@@ -1,0 +1,6 @@
+2023/08/16-13:13:12.691 284d Reusing MANIFEST /home/yunz/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/08/16-13:13:12.692 284d Recovering log #10
+2023/08/16-13:13:12.692 284d Reusing old log /home/yunz/.config/discord/Local Storage/leveldb/000010.log 
+2023/08/16-13:14:20.347 2866 Level-0 table #14: started
+2023/08/16-13:14:20.362 2866 Level-0 table #14: 1884698 bytes OK
+2023/08/16-13:14:20.363 2866 Delete type=0 #10

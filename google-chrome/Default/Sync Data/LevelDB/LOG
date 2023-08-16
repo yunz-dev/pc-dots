@@ -1,0 +1,6 @@
+2023/08/16-14:37:12.668 92fd Reusing MANIFEST /home/yunz/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/08/16-14:37:12.668 92fd Recovering log #56
+2023/08/16-14:37:12.669 92fd Reusing old log /home/yunz/.config/google-chrome/Default/Sync Data/LevelDB/000056.log 
+2023/08/16-14:52:09.707 92e6 Level-0 table #60: started
+2023/08/16-14:52:09.711 92e6 Level-0 table #60: 116099 bytes OK
+2023/08/16-14:52:09.712 92e6 Delete type=0 #56

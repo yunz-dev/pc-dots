@@ -1,0 +1,362 @@
+{
+   "Aria2Text": {
+      "message": "Format Aria2"
+   },
+   "DownText": {
+      "message": "Télécharger en tant que fichier texte"
+   },
+   "High_Resolution": {
+      "message": "Haute résolution"
+   },
+   "Low_Resolution": {
+      "message": "Basse résolution"
+   },
+   "Other_Resolutions": {
+      "message": "Autres résolutions"
+   },
+   "Refresh": {
+      "message": "Réinitialiser"
+   },
+   "ResetExt": {
+      "message": "Réinitialiser"
+   },
+   "Resolution": {
+      "message": "Résolution"
+   },
+   "SaveExt": {
+      "message": "Enregistrer tous les paramètres"
+   },
+   "TAudio": {
+      "message": "Audio"
+   },
+   "TCloseBtn": {
+      "message": "Fermer"
+   },
+   "TContinueRec": {
+      "message": "Continuer le mode d'enregistrement ?"
+   },
+   "TErrorFlushFail": {
+      "message": "Désolé, la vidéo ne peut pas être fusionnée."
+   },
+   "TErrorNoAudio": {
+      "message": "Désolé, aucun audio trouvé."
+   },
+   "TErrorNoVideo": {
+      "message": "Désolé, aucune vidéo trouvée. Peut-être pouvez-vous essayer le mode d'enregistrement."
+   },
+   "TNotice_itemsFound": {
+      "message": "\u003Cstrong>$1\u003C/strong> élément trouvé."
+   },
+   "TRecording": {
+      "message": "Enregistrement."
+   },
+   "TbadgetTitle": {
+      "message": "$1 fichiers multimédias trouvés."
+   },
+   "TbgIsDownloading": {
+      "message": "Le média de cette page est en cours de téléchargement."
+   },
+   "TbgTryLater": {
+      "message": "Désolé, le téléchargement est temporairement indisponible. Veuillez réessayer plus tard ou après avoir actualisé la page."
+   },
+   "Tcopy": {
+      "message": "Copier l'URL"
+   },
+   "TcopySelected": {
+      "message": "Copier la sélection"
+   },
+   "TcustomAdd": {
+      "message": "Ajouter plus"
+   },
+   "TcustomAddMine": {
+      "message": "Ajouter plus"
+   },
+   "TcustomBlockedDomainEmpty": {
+      "message": "Le nom de domaine sera bloqué ne peut pas être vide"
+   },
+   "TcustomBlockedDomainExample": {
+      "message": "Le format du nom de domaine doit être :"
+   },
+   "TcustomBlockedDomainPlaceholder": {
+      "message": "Le nom de domaine sera bloqué"
+   },
+   "TcustomBlockedDomains": {
+      "message": "Domaines bloqués"
+   },
+   "TcustomBlockedDomainsDec": {
+      "message": "Les fichiers des domaines suivants n'apparaîtront pas dans la liste de téléchargement."
+   },
+   "TcustomComfirmRest": {
+      "message": "Confirmer la réinitialisation ? Vous perdrez tous vos paramètres précédents après la réinitialisation !"
+   },
+   "TcustomCtDec": {
+      "message": "Certains fichiers multimédias utilisent des extensions inhabituelles et doivent être jugés par MIME. \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Complete_list_of_MIME_types\" target=\"_blank\">Liste des types MIME.\u003C/a> Supporte les caractères génériques, en faisant correspondre les extensions en premier."
+   },
+   "TcustomCtMIME": {
+      "message": "MIME"
+   },
+   "TcustomDebug": {
+      "message": "Mode de débogage"
+   },
+   "TcustomExt": {
+      "message": "Extension de fichier personnalisée"
+   },
+   "TcustomExtDec": {
+      "message": "Remplissez l'extension sans \".\". \u003Cbr/>Les fichiers plus grands que cette taille seront parcourus. \u003Cbr/>Remplir 0 parcourra indépendamment de la taille du fichier.\u003Cbr/>Si vous voulez ignorer un certain type de fichier, vous pouvez remplir la limite de taille avec une valeur élevée, comme 1000000000000\u003Cbr/>Certains fichiers de ressources non multimédias ne seront pas parcourus."
+   },
+   "TcustomExtName": {
+      "message": "Extension de fichier"
+   },
+   "TcustomExtNameEmpty": {
+      "message": "L'extension de fichier ne peut pas être vide."
+   },
+   "TcustomExtSize": {
+      "message": "Limite de taille"
+   },
+   "TcustomMaxDisplayCount": {
+      "message": "Combien de fichiers sont affichés sur la page contextuelle"
+   },
+   "TcustomMineEmpty": {
+      "message": "Le type MIME ne peut pas être vide."
+   },
+   "TcustomOt": {
+      "message": "Autres"
+   },
+   "TcustomOtFilename": {
+      "message": "Utiliser le titre de la page comme nom de fichier lors du téléchargement."
+   },
+   "TcustomOtIgnore": {
+      "message": "Ignorer les paramètres (éviter les doublons)"
+   },
+   "TcustomOtIgnoreDec": {
+      "message": "Certains fichiers multimédias sont livrés avec des paramètres. Cochez Ignorer le paramètre pour filtrer les données en double."
+   },
+   "TcustomOtReg": {
+      "message": "Une expression régulière qui correspond aux paramètres vidéo. Si vous ne comprenez pas la RE, ne bougez pas, vous pouvez utiliser Réinitialiser pour restaurer."
+   },
+   "TcustomSaved": {
+      "message": "Enregistré"
+   },
+   "TcustomSetting": {
+      "message": "Paramètres de CocoCut"
+   },
+   "TcustomShowCountOnIcon": {
+      "message": "Afficher le nombre de fichiers sur l'icône de l'extension CocoCut"
+   },
+   "TcustomTypeIgn": {
+      "message": "Si vous voulez ignorer un certain type de fichier, vous pouvez remplir la limite de taille avec une valeur élevée, comme 1000000000000."
+   },
+   "TdlmDownload": {
+      "message": "Ouvrez la nouvelle page de gestion des téléchargements pour télécharger avec plusieurs threads (et définissez-la comme méthode de téléchargement par défaut)."
+   },
+   "Tdone": {
+      "message": "Terminé."
+   },
+   "TdownSelected": {
+      "message": "Télécharger la sélection"
+   },
+   "Tdownload": {
+      "message": "Télécharger"
+   },
+   "TerrDrmFound": {
+      "message": "Désolé, mais nous ne pouvons pas télécharger la vidéo car elle peut être protégée par DRM (gestion des droits numériques)."
+   },
+   "TerrFailDownload": {
+      "message": "échec du téléchargement du fichier."
+   },
+   "TerrForbidden": {
+      "message": "Code d'état HTTP : Interdit."
+   },
+   "TerrItself": {
+      "message": "Erreur."
+   },
+   "TerrNoAvailableDownload": {
+      "message": "Désolé, mais nous ne pouvons pas trouver de vidéo disponible pour le téléchargement."
+   },
+   "TerrNoIndexFile": {
+      "message": "Désolé, mais nous ne pouvons pas télécharger le fichier d'index pour les fichiers vidéo."
+   },
+   "TerrNotFound": {
+      "message": "Code d'état HTTP : Non trouvé."
+   },
+   "TerrRequestTimeout": {
+      "message": "Code d'état HTTP : Temps d'attente de la requête."
+   },
+   "TerrResChoose": {
+      "message": "Désolé, mais nous avons un problème lors de la sélection de la résolution vidéo."
+   },
+   "TerrTryToRec": {
+      "message": "Peut-être pouvez-vous essayer le \u003Ca href=\"javascript:void(0)\" id=\"errTryToRec\">mode d'enregistrement\u003C/a> ?"
+   },
+   "Text": {
+      "message": "Format texte"
+   },
+   "Tloading": {
+      "message": "Chargement."
+   },
+   "Tm3Des1": {
+      "message": "Si le fichier ts analysé ne peut pas être téléchargé, essayez de décoder UrlDecode."
+   },
+   "Tm3Des2": {
+      "message": "Commande de fusion de fichiers ts Ffmpeg : ffmpeg -i xxx.m3u8 -vcodec copy -acodec copy xxx.mp4"
+   },
+   "Tm3FileCount": {
+      "message": " fichiers"
+   },
+   "Tm3FileUri": {
+      "message": "URL du fichier m3u8"
+   },
+   "Tm3Key": {
+      "message": ", le fichier multimédia est chiffré, veuillez télécharger le fichier de clé."
+   },
+   "Tm3Nexm3Des": {
+      "message": "Un autre fichier m3u8 est imbriqué dans le fichier m3u8."
+   },
+   "Tm3Nextm3file": {
+      "message": "Sélectionnez le fichier m3u8 de niveau suivant"
+   },
+   "Tm3PageTile": {
+      "message": "Analyse du fichier m3u8"
+   },
+   "Tm3u8": {
+      "message": "Télécharger m3u8"
+   },
+   "TnoResource": {
+      "message": "Aucun fichier détecté !"
+   },
+   "TnoResulution": {
+      "message": "une seule résolution trouvée"
+   },
+   "Tplay": {
+      "message": "Lire"
+   },
+   "TpopBlockDomain": {
+      "message": "Bloquer les fichiers de ce domaine pour qu'ils n'apparaissent pas dans la liste de téléchargement"
+   },
+   "TpopBlockedDomainNotify": {
+      "message": "Les fichiers du domaine ci-dessous ne seront pas affichés dans la liste de téléchargement."
+   },
+   "TpopHomePageBtn": {
+      "message": "Page d'accueil de CocoCut"
+   },
+   "TpopM3u8Des": {
+      "message": "Diffuser"
+   },
+   "TpopNeedPlayit": {
+      "message": "Vous devrez peut-être lire la vidéo d'abord pour aider Cococut à la trouver."
+   },
+   "TpopNeedPlayit2": {
+      "message": "Certaines vidéos doivent commencer à être lues avant de pouvoir être téléchargées. Ou vous pouvez cliquer sur le bouton \"Forcer le téléchargement\"."
+   },
+   "TpopNotSuppWhy": {
+      "message": "Cliquez sur moi pour voir pourquoi et une solution possible."
+   },
+   "TpopNotSupport": {
+      "message": "Désolé, mais nous ne prenons pas en charge cette page Web."
+   },
+   "TpopOptionBtn": {
+      "message": "Paramètres de téléchargement"
+   },
+   "TpopQuestionBtn": {
+      "message": "Commentaires et FAQ"
+   },
+   "TpopRealDlAddr": {
+      "message": "Cliquez sur moi pour devenir membre Pro et obtenir le lien de téléchargement."
+   },
+   "TpopTooManyFiles": {
+      "message": "Trop de fichiers à afficher. Vous pouvez définir le nombre de fichiers à afficher avec "
+   },
+   "TpopYTDLdesc": {
+      "message": "Si vous êtes sur une page de visionnage YouTube, vous pouvez essayer de télécharger la vidéo YouTube."
+   },
+   "TpopYTDLdlIt": {
+      "message": "Essayer de télécharger la vidéo YouTube"
+   },
+   "TrevSelected": {
+      "message": "Inverser la sélection"
+   },
+   "TryHlsDesc": {
+      "message": "Cococut essaiera de télécharger ou d'enregistrer la vidéo. Lorsque la vidéo de la page Web actuelle n'est pas détectée ou que le téléchargement est difficile, vous pouvez cliquer sur moi pour essayer."
+   },
+   "TselectAll": {
+      "message": "Tout sélectionner"
+   },
+   "TswichtRecMode": {
+      "message": "Passer au mode d'enregistrement vidéo"
+   },
+   "TtempntcInfoCopied": {
+      "message": "Copié !"
+   },
+   "TtoFaq": {
+      "message": "Allez dans la FAQ pour voir si le problème peut être résolu."
+   },
+   "TtryHls": {
+      "message": "Forcer le téléchargement"
+   },
+   "TtryHlsLabel": {
+      "message": "Des problèmes de téléchargement ou aucun fichier détecté ?"
+   },
+   "TtryPlay": {
+      "message": "Essayer de lire"
+   },
+   "TtryRecMode": {
+      "message": "Impossible de trouver de vidéo à télécharger, peut-être pouvez-vous essayer avec le mode d'enregistrement ?"
+   },
+   "TwebmNotSupport": {
+      "message": "Désolé, mais le format webm n'est pas dans notre liste de prise en charge."
+   },
+   "UrlDecode": {
+      "message": "Décodage UrlDecode"
+   },
+   "WgetText": {
+      "message": "Format Wget"
+   },
+   "customNavIEbtns": {
+      "message": "Importer/Exporter les paramètres"
+   },
+   "exportSettingBtn": {
+      "message": "Exporter vers un fichier local"
+   },
+   "extDescription": {
+      "message": "Meilleure extension Chrome de téléchargement de vidéos, ce téléchargeur de vidéos pour Chrome peut télécharger des vidéos, de la musique gratuitement et en toute sécurité en un clic."
+   },
+   "extName": {
+      "message": "téléchargeur de vidéos - CocoCut"
+   },
+   "importSettingBtn": {
+      "message": "Importer depuis un fichier local"
+   },
+   "importSettingsCancelBtn": {
+      "message": "Annuler"
+   },
+   "importSettingsFilelabel": {
+      "message": "Choisissez un fichier de paramètres CocoCut…"
+   },
+   "importSettingsFilename": {
+      "message": "Aucun fichier sélectionné"
+   },
+   "importSettingsOkBtn": {
+      "message": "OK"
+   },
+   "importSettingsWarning": {
+      "message": "Attention : cela remplacera tous les paramètres actuels."
+   },
+   "modalCancelBtn": {
+      "message": "Annuler"
+   },
+   "modalOkBtn": {
+      "message": "OK"
+   },
+   "subtitle": {
+      "message": "Sous-titre"
+   },
+   "warn_chapter_has_changed": {
+      "message": "Le chapitre du flux a changé, mais l'enregistrement continue."
+   },
+   "warn_chunksize_excess": {
+      "message": "Le nombre de fragments dans le flux dépasse NUM_CHUNKS. Veuillez enregistrer immédiatement cette vidéo et essayer d'enregistrer à nouveau, car elle risque de ne pas pouvoir être traitée davantage."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "Une partie du flux est manquante, mais l'enregistrement continue."
+   }
+}

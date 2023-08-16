@@ -1,0 +1,362 @@
+{
+   "Aria2Text": {
+      "message": "Формат Aria2"
+   },
+   "DownText": {
+      "message": "Скачать как текстовый файл"
+   },
+   "High_Resolution": {
+      "message": "Высокое разрешение"
+   },
+   "Low_Resolution": {
+      "message": "Низкое разрешение"
+   },
+   "Other_Resolutions": {
+      "message": "Другие разрешения"
+   },
+   "Refresh": {
+      "message": "Сброс"
+   },
+   "ResetExt": {
+      "message": "Сброс"
+   },
+   "Resolution": {
+      "message": "Разрешение"
+   },
+   "SaveExt": {
+      "message": "Сохранить все настройки"
+   },
+   "TAudio": {
+      "message": "Аудио"
+   },
+   "TCloseBtn": {
+      "message": "Закрыть"
+   },
+   "TContinueRec": {
+      "message": "Продолжить режим записи?"
+   },
+   "TErrorFlushFail": {
+      "message": "Извините, видео не может быть объединено."
+   },
+   "TErrorNoAudio": {
+      "message": "Извините, аудио не найдено."
+   },
+   "TErrorNoVideo": {
+      "message": "Извините, видео не найдено. Можете попробовать режим записи."
+   },
+   "TNotice_itemsFound": {
+      "message": "Найдено \u003Cstrong>$1\u003C/strong> элементов."
+   },
+   "TRecording": {
+      "message": "Запись."
+   },
+   "TbadgetTitle": {
+      "message": "Найдено $1 медиафайлов."
+   },
+   "TbgIsDownloading": {
+      "message": "Медиафайлы этой страницы загружаются."
+   },
+   "TbgTryLater": {
+      "message": "Извините, загрузка временно недоступна. Попробуйте еще раз позже или после обновления страницы."
+   },
+   "Tcopy": {
+      "message": "Копировать URL"
+   },
+   "TcopySelected": {
+      "message": "Копировать выбранное"
+   },
+   "TcustomAdd": {
+      "message": "Добавить еще"
+   },
+   "TcustomAddMine": {
+      "message": "Добавить еще"
+   },
+   "TcustomBlockedDomainEmpty": {
+      "message": "Имя домена будет заблокировано не может быть пустым"
+   },
+   "TcustomBlockedDomainExample": {
+      "message": "Формат имени домена должен быть следующим:"
+   },
+   "TcustomBlockedDomainPlaceholder": {
+      "message": "Имя домена будет заблокировано"
+   },
+   "TcustomBlockedDomains": {
+      "message": "Заблокированные домены"
+   },
+   "TcustomBlockedDomainsDec": {
+      "message": "Файлы с следующих доменов не будут отображаться в списке загрузок."
+   },
+   "TcustomComfirmRest": {
+      "message": "Подтвердите сброс? После сброса вы потеряете все предыдущие настройки!"
+   },
+   "TcustomCtDec": {
+      "message": "Некоторые медиафайлы используют необычные расширения и должны быть определены по MIME. \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Complete_list_of_MIME_types\" target=\"_blank\">Список MIME-типов.\u003C/a> Поддерживаются шаблоны, сначала сопоставляются расширения."
+   },
+   "TcustomCtMIME": {
+      "message": "MIME"
+   },
+   "TcustomDebug": {
+      "message": "Режим отладки"
+   },
+   "TcustomExt": {
+      "message": "Пользовательское расширение файла"
+   },
+   "TcustomExtDec": {
+      "message": "Введите расширение без \".\". \u003Cbr/>Файлы размером больше этого значения будут обрабатываться. \u003Cbr/>Если вы хотите игнорировать определенный тип файла, вы можете заполнить лимит размера большим значением, например, 1000000000000\u003Cbr/>Некоторые файлы ресурсов, не относящиеся к медиафайлам, не будут обрабатываться."
+   },
+   "TcustomExtName": {
+      "message": "Расширение файла"
+   },
+   "TcustomExtNameEmpty": {
+      "message": "Расширение файла не может быть пустым."
+   },
+   "TcustomExtSize": {
+      "message": "Лимит размера"
+   },
+   "TcustomMaxDisplayCount": {
+      "message": "Сколько файлов отображать на всплывающей странице"
+   },
+   "TcustomMineEmpty": {
+      "message": "MIME не может быть пустым."
+   },
+   "TcustomOt": {
+      "message": "Другие"
+   },
+   "TcustomOtFilename": {
+      "message": "Использовать заголовок страницы в качестве имени файла при загрузке."
+   },
+   "TcustomOtIgnore": {
+      "message": "Игнорировать параметры (избежать дубликатов)"
+   },
+   "TcustomOtIgnoreDec": {
+      "message": "Некоторые медиафайлы поставляются с параметрами. Установите флажок Игнорировать параметр, чтобы отфильтровать дублирующиеся данные."
+   },
+   "TcustomOtReg": {
+      "message": "Регулярное выражение, соответствующее параметрам видео. Если вы не понимаете RE, не двигайтесь, вы можете использовать сброс, чтобы восстановить."
+   },
+   "TcustomSaved": {
+      "message": "Сохранено"
+   },
+   "TcustomSetting": {
+      "message": "Настройки CocoCut"
+   },
+   "TcustomShowCountOnIcon": {
+      "message": "Отображать количество файлов на значке расширения CocoCut"
+   },
+   "TcustomTypeIgn": {
+      "message": "Если вы хотите игнорировать определенный тип файла, вы можете заполнить лимит размера большим значением, например, 1000000000000."
+   },
+   "TdlmDownload": {
+      "message": "Открыть новую страницу управления загрузками для загрузки с многопоточностью (и установить ее в качестве метода загрузки по умолчанию)."
+   },
+   "Tdone": {
+      "message": "Готово."
+   },
+   "TdownSelected": {
+      "message": "Загрузить выбранное"
+   },
+   "Tdownload": {
+      "message": "Загрузить"
+   },
+   "TerrDrmFound": {
+      "message": "Извините, но мы не можем загрузить видео, так как оно может быть защищено DRM (управление цифровыми правами)."
+   },
+   "TerrFailDownload": {
+      "message": "Не удалось загрузить файл."
+   },
+   "TerrForbidden": {
+      "message": "Код состояния Http: Forbidden."
+   },
+   "TerrItself": {
+      "message": "Ошибка."
+   },
+   "TerrNoAvailableDownload": {
+      "message": "Извините, но мы не можем найти доступное видео для загрузки."
+   },
+   "TerrNoIndexFile": {
+      "message": "Извините, но мы не можем загрузить индексный файл для видеофайлов."
+   },
+   "TerrNotFound": {
+      "message": "Код состояния Http: Not Found."
+   },
+   "TerrRequestTimeout": {
+      "message": "Код состояния Http: Request Timeout."
+   },
+   "TerrResChoose": {
+      "message": "Извините, но у нас возникла проблема при выборе разрешения видео."
+   },
+   "TerrTryToRec": {
+      "message": "Можете попробовать \u003Ca href=\"javascript:void(0)\" id=\"errTryToRec\">режим записи\u003C/a>?"
+   },
+   "Text": {
+      "message": "Текстовый формат"
+   },
+   "Tloading": {
+      "message": "Загрузка."
+   },
+   "Tm3Des1": {
+      "message": "Если разобранный файл ts не может быть загружен, попробуйте декодировать UrlDecode."
+   },
+   "Tm3Des2": {
+      "message": "Команда объединения файлов ts Ffmpeg: ffmpeg -i xxx.m3u8 -vcodec copy -acodec copy xxx.mp4"
+   },
+   "Tm3FileCount": {
+      "message": " файлов"
+   },
+   "Tm3FileUri": {
+      "message": "URL-адрес файла M3u8"
+   },
+   "Tm3Key": {
+      "message": ", медиафайл зашифрован, загрузите файл ключа."
+   },
+   "Tm3Nexm3Des": {
+      "message": "В файле m3u8 вложен еще один файл m3u8."
+   },
+   "Tm3Nextm3file": {
+      "message": "Выберите следующий уровень файла m3u8"
+   },
+   "Tm3PageTile": {
+      "message": "Разбор файла m3u8"
+   },
+   "Tm3u8": {
+      "message": "Загрузить m3u8"
+   },
+   "TnoResource": {
+      "message": "Файл не обнаружен!"
+   },
+   "TnoResulution": {
+      "message": "найдено только одно разрешение"
+   },
+   "Tplay": {
+      "message": "Воспроизвести"
+   },
+   "TpopBlockDomain": {
+      "message": "Блокировать файлы с этого домена, чтобы они не отображались в списке загрузок"
+   },
+   "TpopBlockedDomainNotify": {
+      "message": "Файлы с домена ниже не будут отображаться в списке загрузок."
+   },
+   "TpopHomePageBtn": {
+      "message": "Домашняя страница Cococut"
+   },
+   "TpopM3u8Des": {
+      "message": "Поток"
+   },
+   "TpopNeedPlayit": {
+      "message": "Вам может потребоваться воспроизвести видео, чтобы помочь Cococut его найти."
+   },
+   "TpopNeedPlayit2": {
+      "message": "Некоторые видео нужно запустить перед загрузкой. Или вы можете нажать кнопку \"Принудительная загрузка\"."
+   },
+   "TpopNotSuppWhy": {
+      "message": "Нажмите на меня, чтобы узнать причину и возможное решение."
+   },
+   "TpopNotSupport": {
+      "message": "К сожалению, мы не поддерживаем эту веб-страницу."
+   },
+   "TpopOptionBtn": {
+      "message": "Настройки загрузки"
+   },
+   "TpopQuestionBtn": {
+      "message": "Обратная связь и ЧАВО"
+   },
+   "TpopRealDlAddr": {
+      "message": "Нажмите на меня, чтобы стать участником Pro и получить ссылку для загрузки."
+   },
+   "TpopTooManyFiles": {
+      "message": "Слишком много файлов для отображения. Вы можете установить, сколько файлов отображать с помощью "
+   },
+   "TpopYTDLdesc": {
+      "message": "Если вы находитесь на странице просмотра YouTube, вы можете попробовать загрузить видео с YouTube."
+   },
+   "TpopYTDLdlIt": {
+      "message": "Попробуйте загрузить видео с YouTube"
+   },
+   "TrevSelected": {
+      "message": "Инвертировать выбор"
+   },
+   "TryHlsDesc": {
+      "message": "Cococut попытается загрузить или записать видео. Если текущее видео на веб-странице не обнаружено или загрузка затруднена, вы можете нажать на меня, чтобы попробовать."
+   },
+   "TselectAll": {
+      "message": "Выбрать все"
+   },
+   "TswichtRecMode": {
+      "message": "Переключиться на режим записи видео"
+   },
+   "TtempntcInfoCopied": {
+      "message": "Скопировано!"
+   },
+   "TtoFaq": {
+      "message": "Перейти в раздел Часто задаваемые вопросы, чтобы узнать, можно ли исправить проблему."
+   },
+   "TtryHls": {
+      "message": "Принудительная загрузка"
+   },
+   "TtryHlsLabel": {
+      "message": "У вас возникли проблемы с загрузкой или файл не обнаружен?"
+   },
+   "TtryPlay": {
+      "message": "Попробовать воспроизвести"
+   },
+   "TtryRecMode": {
+      "message": "Не удалось найти видео для загрузки, можете попробовать режим записи?"
+   },
+   "TwebmNotSupport": {
+      "message": "Извините, но формат webm не поддерживается."
+   },
+   "UrlDecode": {
+      "message": "Декодирование UrlDecode"
+   },
+   "WgetText": {
+      "message": "Формат Wget"
+   },
+   "customNavIEbtns": {
+      "message": "Импорт/экспорт настроек"
+   },
+   "exportSettingBtn": {
+      "message": "Экспортировать в локальный файл"
+   },
+   "extDescription": {
+      "message": "Лучшее расширение для загрузки видео в Chrome, это расширение для загрузки видео для Chrome может загружать видео, музыку бесплатно, безопасно в один клик."
+   },
+   "extName": {
+      "message": "Загрузчик видео - CocoCut"
+   },
+   "importSettingBtn": {
+      "message": "Импортировать из локального файла"
+   },
+   "importSettingsCancelBtn": {
+      "message": "Отмена"
+   },
+   "importSettingsFilelabel": {
+      "message": "Выберите файл настроек Cococut…"
+   },
+   "importSettingsFilename": {
+      "message": "Файл не выбран"
+   },
+   "importSettingsOkBtn": {
+      "message": "OK"
+   },
+   "importSettingsWarning": {
+      "message": "Предупреждение: это заменит все текущие настройки."
+   },
+   "modalCancelBtn": {
+      "message": "Отмена"
+   },
+   "modalOkBtn": {
+      "message": "OK"
+   },
+   "subtitle": {
+      "message": "Субтитры"
+   },
+   "warn_chapter_has_changed": {
+      "message": "Глава потока изменилась, но запись продолжается."
+   },
+   "warn_chunksize_excess": {
+      "message": "Количество фрагментов в потоке превышает NUM_CHUNKS. Немедленно сохраните это видео и попробуйте записать его снова, так как его может не удастся обработать дальше."
+   },
+   "warn_discontig_fragments_found": {
+      "message": "Часть потока отсутствует, но запись продолжается."
+   }
+}
