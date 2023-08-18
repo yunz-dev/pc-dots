@@ -1,0 +1,6 @@
+2023/08/17-22:50:45.903 3d5 Creating DB /home/yunz/.config/google-chrome/Default/IndexedDB/https_7686f264b53e6e0c1c9f26c1bccdd5d2.safeframe.googlesyndication.com_0.indexeddb.leveldb since it was missing.
+2023/08/17-22:50:45.905 3d5 Reusing MANIFEST /home/yunz/.config/google-chrome/Default/IndexedDB/https_7686f264b53e6e0c1c9f26c1bccdd5d2.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/17-22:51:11.859 3d6 Level-0 table #5: started
+2023/08/17-22:51:11.860 3d6 Level-0 table #5: 480 bytes OK
+2023/08/17-22:51:11.861 3d6 Delete type=0 #3
+2023/08/17-22:51:11.861 3d6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

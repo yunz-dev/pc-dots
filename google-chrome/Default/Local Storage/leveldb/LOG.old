@@ -1,3 +1,55 @@
-2023/08/16-14:36:28.902 3 Reusing MANIFEST /home/yunz/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2023/08/16-14:36:28.903 3 Recovering log #102
-2023/08/16-14:36:28.904 3 Reusing old log /home/yunz/.config/google-chrome/Default/Local Storage/leveldb/000102.log 
+2023/08/18-11:51:53.185 3 Reusing MANIFEST /home/yunz/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/08/18-11:51:53.186 3 Recovering log #298
+2023/08/18-11:51:53.186 3 Reusing old log /home/yunz/.config/google-chrome/Default/Local Storage/leveldb/000298.log 
+2023/08/18-11:52:28.265 4 Level-0 table #302: started
+2023/08/18-11:52:28.266 4 Level-0 table #302: 28464 bytes OK
+2023/08/18-11:52:28.267 4 Delete type=0 #298
+2023/08/18-11:52:30.320 4 Level-0 table #304: started
+2023/08/18-11:52:30.322 4 Level-0 table #304: 62108 bytes OK
+2023/08/18-11:52:30.324 4 Delete type=0 #301
+2023/08/18-11:53:20.145 4 Level-0 table #306: started
+2023/08/18-11:53:20.147 4 Level-0 table #306: 39167 bytes OK
+2023/08/18-11:53:20.149 4 Delete type=0 #303
+2023/08/18-11:53:20.150 4 Compacting 4@0 + 2@1 files
+2023/08/18-11:53:20.172 4 Generated table #307@0: 536 keys, 2287386 bytes
+2023/08/18-11:53:20.182 4 Generated table #308@0: 668 keys, 549879 bytes
+2023/08/18-11:53:20.182 4 Compacted 4@0 + 2@1 files => 2837265 bytes
+2023/08/18-11:53:20.183 4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/08/18-11:53:20.183 4 Delete type=2 #297
+2023/08/18-11:53:20.183 4 Delete type=2 #299
+2023/08/18-11:53:20.183 4 Delete type=2 #296
+2023/08/18-11:53:20.183 4 Delete type=2 #302
+2023/08/18-11:53:20.183 4 Delete type=2 #304
+2023/08/18-11:53:20.183 4 Delete type=2 #306
+2023/08/18-11:56:23.000 4 Level-0 table #310: started
+2023/08/18-11:56:23.003 4 Level-0 table #310: 40744 bytes OK
+2023/08/18-11:56:23.004 4 Delete type=0 #305
+2023/08/18-11:58:34.713 4 Level-0 table #312: started
+2023/08/18-11:58:34.715 4 Level-0 table #312: 83460 bytes OK
+2023/08/18-11:58:34.717 4 Delete type=0 #309
+2023/08/18-12:00:09.472 4 Level-0 table #314: started
+2023/08/18-12:00:09.517 4 Level-0 table #314: 73436 bytes OK
+2023/08/18-12:00:09.518 4 Delete type=0 #311
+2023/08/18-12:00:26.640 4 Level-0 table #316: started
+2023/08/18-12:00:26.642 4 Level-0 table #316: 57448 bytes OK
+2023/08/18-12:00:26.644 4 Delete type=0 #313
+2023/08/18-12:00:26.645 4 Compacting 4@0 + 2@1 files
+2023/08/18-12:00:26.664 4 Generated table #317@0: 540 keys, 2287974 bytes
+2023/08/18-12:00:26.672 4 Generated table #318@0: 740 keys, 620319 bytes
+2023/08/18-12:00:26.672 4 Compacted 4@0 + 2@1 files => 2908293 bytes
+2023/08/18-12:00:26.673 4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/08/18-12:00:26.673 4 Delete type=2 #310
+2023/08/18-12:00:26.673 4 Delete type=2 #308
+2023/08/18-12:00:26.674 4 Delete type=2 #312
+2023/08/18-12:00:26.674 4 Delete type=2 #314
+2023/08/18-12:00:26.674 4 Delete type=2 #307
+2023/08/18-12:00:26.674 4 Delete type=2 #316
+2023/08/18-12:11:21.824 4 Level-0 table #320: started
+2023/08/18-12:11:21.827 4 Level-0 table #320: 34957 bytes OK
+2023/08/18-12:11:21.829 4 Delete type=0 #315
+2023/08/18-12:11:29.688 4 Level-0 table #322: started
+2023/08/18-12:11:29.690 4 Level-0 table #322: 62716 bytes OK
+2023/08/18-12:11:29.692 4 Delete type=0 #319
+2023/08/18-12:12:11.976 4 Level-0 table #324: started
+2023/08/18-12:12:11.980 4 Level-0 table #324: 63148 bytes OK
+2023/08/18-12:12:11.981 4 Delete type=0 #321

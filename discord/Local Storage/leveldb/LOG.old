@@ -1,6 +1,19 @@
-2023/08/16-13:13:12.691 284d Reusing MANIFEST /home/yunz/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2023/08/16-13:13:12.692 284d Recovering log #10
-2023/08/16-13:13:12.692 284d Reusing old log /home/yunz/.config/discord/Local Storage/leveldb/000010.log 
-2023/08/16-13:14:20.347 2866 Level-0 table #14: started
-2023/08/16-13:14:20.362 2866 Level-0 table #14: 1884698 bytes OK
-2023/08/16-13:14:20.363 2866 Delete type=0 #10
+2023/08/16-14:36:43.967 9146 Reusing MANIFEST /home/yunz/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/08/16-14:36:43.968 9146 Recovering log #13
+2023/08/16-14:36:43.969 9146 Reusing old log /home/yunz/.config/discord/Local Storage/leveldb/000013.log 
+2023/08/16-14:37:44.965 9146 Level-0 table #17: started
+2023/08/16-14:37:44.967 9146 Level-0 table #17: 38222 bytes OK
+2023/08/16-14:37:44.967 9146 Delete type=0 #13
+2023/08/16-15:14:39.762 9146 Level-0 table #19: started
+2023/08/16-15:14:39.764 9146 Level-0 table #19: 27320 bytes OK
+2023/08/16-15:14:39.765 9146 Delete type=0 #16
+2023/08/16-15:14:39.765 9146 Compacting 4@0 + 1@1 files
+2023/08/16-15:14:39.780 9146 Generated table #20@0: 78 keys, 3704948 bytes
+2023/08/16-15:14:39.781 9146 Generated table #21@0: 24 keys, 23694 bytes
+2023/08/16-15:14:39.781 9146 Compacted 4@0 + 1@1 files => 3728642 bytes
+2023/08/16-15:14:39.782 9146 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/08/16-15:14:39.782 9146 Delete type=2 #8
+2023/08/16-15:14:39.782 9146 Delete type=2 #14
+2023/08/16-15:14:39.782 9146 Delete type=2 #11
+2023/08/16-15:14:39.782 9146 Delete type=2 #19
+2023/08/16-15:14:39.782 9146 Delete type=2 #17

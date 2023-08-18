@@ -1,3 +1,6 @@
-2023/08/16-14:36:32.589 3 Reusing MANIFEST /home/yunz/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2023/08/16-14:36:32.590 3 Recovering log #12
-2023/08/16-14:36:32.591 3 Reusing old log /home/yunz/.config/google-chrome/Default/Session Storage/000012.log 
+2023/08/18-11:51:53.455 3 Reusing MANIFEST /home/yunz/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2023/08/18-11:51:53.456 3 Recovering log #44
+2023/08/18-11:51:53.457 3 Reusing old log /home/yunz/.config/google-chrome/Default/Session Storage/000044.log 
+2023/08/18-12:01:11.346 4 Level-0 table #48: started
+2023/08/18-12:01:11.348 4 Level-0 table #48: 19764 bytes OK
+2023/08/18-12:01:11.349 4 Delete type=0 #44

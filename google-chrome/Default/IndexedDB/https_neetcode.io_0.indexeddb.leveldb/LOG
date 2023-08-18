@@ -1,0 +1,17 @@
+2023/08/16-19:56:33.923 1386c Reusing MANIFEST /home/yunz/.config/google-chrome/Default/IndexedDB/https_neetcode.io_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/16-19:56:33.923 1386c Recovering log #6
+2023/08/16-19:56:33.923 1386c Reusing old log /home/yunz/.config/google-chrome/Default/IndexedDB/https_neetcode.io_0.indexeddb.leveldb/000006.log 
+2023/08/16-19:56:33.989 1386d Level-0 table #11: started
+2023/08/16-19:56:33.989 1386d Level-0 table #11: 799 bytes OK
+2023/08/16-19:56:33.990 1386d Delete type=0 #6
+2023/08/16-19:56:33.990 1386c Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/08/16-19:56:34.230 1386f Level-0 table #13: started
+2023/08/16-19:56:34.231 1386f Level-0 table #13: 630 bytes OK
+2023/08/16-19:56:34.233 1386f Delete type=0 #10
+2023/08/16-19:56:34.233 1386f Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 250 : 1
+2023/08/16-19:56:34.233 1386f Compacting 1@0 + 1@1 files
+2023/08/16-19:56:34.234 1386f Generated table #14@0: 18 keys, 581 bytes
+2023/08/16-19:56:34.234 1386f Compacted 1@0 + 1@1 files => 581 bytes
+2023/08/16-19:56:34.234 1386f compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/16-19:56:34.235 1386f Delete type=2 #13
+2023/08/16-19:56:34.235 1386f Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 250 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

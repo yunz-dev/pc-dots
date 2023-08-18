@@ -1,6 +1,3 @@
-2023/08/15-23:41:50.808 19b37 Creating DB /home/yunz/.config/google-chrome/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb since it was missing.
-2023/08/15-23:41:50.810 19b37 Reusing MANIFEST /home/yunz/.config/google-chrome/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/08/15-23:41:54.914 19b38 Level-0 table #5: started
-2023/08/15-23:41:54.915 19b38 Level-0 table #5: 1484 bytes OK
-2023/08/15-23:41:54.915 19b38 Delete type=0 #3
-2023/08/15-23:41:54.915 19b38 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/08/17-21:16:11.741 3d5 Reusing MANIFEST /home/yunz/.config/google-chrome/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/17-21:16:11.742 3d5 Recovering log #4
+2023/08/17-21:16:11.742 3d5 Reusing old log /home/yunz/.config/google-chrome/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/000004.log 
