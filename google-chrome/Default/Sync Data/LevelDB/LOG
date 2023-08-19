@@ -1,9 +1,24 @@
-2023/08/18-13:34:47.622 366 Reusing MANIFEST /home/yunz/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2023/08/18-13:34:47.623 366 Recovering log #117
-2023/08/18-13:34:47.624 366 Reusing old log /home/yunz/.config/google-chrome/Default/Sync Data/LevelDB/000117.log 
-2023/08/18-13:59:29.307 33c Level-0 table #121: started
-2023/08/18-13:59:29.309 33c Level-0 table #121: 103491 bytes OK
-2023/08/18-13:59:29.310 33c Delete type=0 #117
-2023/08/18-14:39:15.079 33c Level-0 table #123: started
-2023/08/18-14:39:15.083 33c Level-0 table #123: 98185 bytes OK
-2023/08/18-14:39:15.084 33c Delete type=0 #120
+2023/08/19-13:34:01.744 4e2 Reusing MANIFEST /home/yunz/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/08/19-13:34:01.744 4e2 Recovering log #148
+2023/08/19-13:34:01.746 4e2 Reusing old log /home/yunz/.config/google-chrome/Default/Sync Data/LevelDB/000148.log 
+2023/08/19-14:00:51.616 4c0 Level-0 table #152: started
+2023/08/19-14:00:51.619 4c0 Level-0 table #152: 109119 bytes OK
+2023/08/19-14:00:51.620 4c0 Delete type=0 #148
+2023/08/19-14:50:22.543 4c4 Level-0 table #154: started
+2023/08/19-14:50:22.547 4c4 Level-0 table #154: 143775 bytes OK
+2023/08/19-14:50:22.549 4c4 Delete type=0 #151
+2023/08/19-15:00:24.908 4cc Level-0 table #156: started
+2023/08/19-15:00:24.912 4cc Level-0 table #156: 172383 bytes OK
+2023/08/19-15:00:24.913 4cc Delete type=0 #153
+2023/08/19-15:00:24.913 4cc Compacting 4@0 + 1@1 files
+2023/08/19-15:00:24.918 4cc Generated table #157@0: 193 keys, 44593 bytes
+2023/08/19-15:00:24.918 4cc Compacted 4@0 + 1@1 files => 44593 bytes
+2023/08/19-15:00:24.919 4cc compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/19-15:00:24.919 4cc Delete type=2 #154
+2023/08/19-15:00:24.919 4cc Delete type=2 #152
+2023/08/19-15:00:24.919 4cc Delete type=2 #149
+2023/08/19-15:00:24.919 4cc Delete type=2 #156
+2023/08/19-15:00:24.919 4cc Delete type=2 #146
+2023/08/19-15:34:31.539 4c4 Level-0 table #159: started
+2023/08/19-15:34:31.545 4c4 Level-0 table #159: 108927 bytes OK
+2023/08/19-15:34:31.546 4c4 Delete type=0 #155

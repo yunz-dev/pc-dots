@@ -1,2 +1,3 @@
-2023/08/15-22:09:43.248 1728b Creating DB /home/yunz/.config/discord/shared_proto_db/metadata since it was missing.
-2023/08/15-22:09:43.250 1728b Reusing MANIFEST /home/yunz/.config/discord/shared_proto_db/metadata/MANIFEST-000001
+2023/08/19-13:33:31.733 396 Reusing MANIFEST /home/yunz/.config/discord/shared_proto_db/metadata/MANIFEST-000001
+2023/08/19-13:33:31.733 396 Recovering log #3
+2023/08/19-13:33:31.733 396 Reusing old log /home/yunz/.config/discord/shared_proto_db/metadata/000003.log 

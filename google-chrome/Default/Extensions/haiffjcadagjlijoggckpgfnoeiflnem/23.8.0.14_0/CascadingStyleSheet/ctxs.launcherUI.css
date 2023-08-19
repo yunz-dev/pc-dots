@@ -1,0 +1,513 @@
+/*Copyright (c) 2014 - 2023 Citrix Systems, Inc.All Rights Reserved. Confidential & Proprietary.
+The materials in this file are protected by copyright and other intellectual property laws.
+Copying and use is permitted only by end users to enable use of Citrix server technology.
+Any other reproduction or use of this file, or any portion of it, is unlicensed.
+In no event may the file be reverse engineered or may copies be made in association with deobfuscation, decompilation or disassembly.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.*/
+
+/*
+All the initial session launcher UI css can be placed here.
+This is the first CSS file which will be loaded during the session launch.
+*/
+
+/*
+font file for citrixsans light is taken from https://s3.amazonaws.com/citrix-cdn/can.cdn/marketing/assets/fonts/citrix-sans/citrixsans-light.eot
+similarly other font file are taken from the link https://s3.amazonaws.com/citrix-cdn/can.cdn/marketing/assets/fonts/citrix-sans/[file-name]
+font-weight is taken from the following link- https://s3.amazonaws.com/citrix-cdn/can.cdn/marketing/assets/fonts/citrix-fonts-linking.css
+*/
+@font-face{
+    font-family:"citrixsans";
+    font-style: normal;
+    font-weight: 400;
+    src:url("../resources/fonts/citrixsans/citrixsans-regular.eot");
+    src:url("../resources/fonts/citrixsans/citrixsans-regular.eot?") format('eot'),
+    url("../resources/fonts/citrixsans/citrixsans-regular.woff") format("woff"),
+    url("../resources/fonts/citrixsans/citrixsans-regular.ttf") format("truetype"),
+    url("../resources/fonts/citrixsans/citrixsans-regular.svg#7816f72f-f47e-4715-8cd7-960e3723846a") format("svg");
+}
+
+@font-face{
+    font-family:"citrixsans";
+    font-style: normal;
+    font-weight: 700;
+    src:url("../resources/fonts/citrixsans/citrixsans-bold.eot");
+    src:url("../resources/fonts/citrixsans/citrixsans-bold.eot?") format('eot'),
+    url("../resources/fonts/citrixsans/citrixsans-bold.woff") format("woff"),
+    url("../resources/fonts/citrixsans/citrixsans-bold.ttf") format("truetype"),
+    url("../resources/fonts/citrixsans/citrixsans-bold.svg#7816f72f-f47e-4715-8cd7-960e3723846a") format("svg");
+}
+
+@font-face{
+    font-family:"citrixsans";
+    font-style: italic;
+    font-weight: 700;
+    src:url("../resources/fonts/citrixsans/citrixsans-bolditalic.eot");
+    src:url("../resources/fonts/citrixsans/citrixsans-bolditalic.eot?") format('eot'),
+    url("../resources/fonts/citrixsans/citrixsans-bolditalic.woff") format("woff"),
+    url("../resources/fonts/citrixsans/citrixsans-bolditalic.ttf") format("truetype"),
+    url("../resources/fonts/citrixsans/citrixsans-bolditalic.svg#7816f72f-f47e-4715-8cd7-960e3723846a") format("svg");
+}
+
+@font-face{
+    font-family:"citrixsans";
+    font-style: italic;
+    font-weight: 400;
+    src:url("../resources/fonts/citrixsans/citrixsans-italic.eot");
+    src:url("../resources/fonts/citrixsans/citrixsans-italic.eot?") format('eot'),
+    url("../resources/fonts/citrixsans/citrixsans-italic.woff") format("woff"),
+    url("../resources/fonts/citrixsans/citrixsans-italic.ttf") format("truetype"),
+    url("../resources/fonts/citrixsans/citrixsans-italic.svg#7816f72f-f47e-4715-8cd7-960e3723846a") format("svg");
+}
+
+@font-face{
+    font-family:"citrixsans";
+    font-style: normal;
+    font-weight: 200;
+    src:url("../resources/fonts/citrixsans/citrixsans-light.eot");
+    src:url("../resources/fonts/citrixsans/citrixsans-light.eot?") format('eot'),
+    url("../resources/fonts/citrixsans/citrixsans-light.woff") format("woff"),
+    url("../resources/fonts/citrixsans/citrixsans-light.ttf") format("truetype"),
+    url("../resources/fonts/citrixsans/citrixsans-light.svg#7816f72f-f47e-4715-8cd7-960e3723846a") format("svg");
+}
+
+@font-face{
+    font-family:"citrixsans";
+    font-style: italic;
+    font-weight: 200;
+    src:url("../resources/fonts/citrixsans/citrixsans-lightitalic.eot");
+    src:url("../resources/fonts/citrixsans/citrixsans-lightitalic.eot?") format('eot'),
+    url("../resources/fonts/citrixsans/citrixsans-lightitalic.woff") format("woff"),
+    url("../resources/fonts/citrixsans/citrixsans-lightitalic.ttf") format("truetype"),
+    url("../resources/fonts/citrixsans/citrixsans-lightitalic.svg#7816f72f-f47e-4715-8cd7-960e3723846a") format("svg");
+}
+
+@font-face{
+    font-family:"citrixsans";
+    font-style: normal;
+    font-weight: 600;
+    src:url("../resources/fonts/citrixsans/citrixsans-semibold.eot");
+    src:url("../resources/fonts/citrixsans/citrixsans-semibold.eot?") format('eot'),
+    url("../resources/fonts/citrixsans/citrixsans-semibold.woff") format("woff"),
+    url("../resources/fonts/citrixsans/citrixsans-semibold.ttf") format("truetype"),
+    url("../resources/fonts/citrixsans/citrixsans-semibold.svg#7816f72f-f47e-4715-8cd7-960e3723846a") format("svg");
+}
+
+@font-face{
+    font-family:"citrixsans";
+    font-style: italic;
+    font-weight: 600;
+    src:url("../resources/fonts/citrixsans/citrixsans-semibolditalic.eot");
+    src:url("../resources/fonts/citrixsans/citrixsans-semibolditalic.eot?") format('eot'),
+    url("../resources/fonts/citrixsans/citrixsans-semibolditalic.woff") format("woff"),
+    url("../resources/fonts/citrixsans/citrixsans-semibolditalic.ttf") format("truetype"),
+    url("../resources/fonts/citrixsans/citrixsans-semibolditalic.svg#7816f72f-f47e-4715-8cd7-960e3723846a") format("svg");
+}
+
+body,button{
+    font-family: "citrixsans","Helvetica Neue", "Helvetica", "Arial", "Sans Serif" !important;
+}
+
+head, body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(359deg);
+    }
+}
+
+@-webkit-keyframes shimmer {
+    0% {
+        background-position: -100% 0;
+    }
+    100% {
+        background-position: 100% 0;
+    }
+}
+
+@keyframes shimmer {
+    0% {
+        background-position: -1200px 0;
+    }
+    100% {
+        background-position: 1200px 0;
+    }
+}
+
+.shimmerBG {
+    animation-duration: 2.2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    animation-name: shimmer;
+    animation-timing-function: linear;
+    background: #E6E6E6;
+    background: linear-gradient(to right, #F6F6F6 8%, #F0F0F0 18%, #F6F6F6 33%);
+    background-size: 1200px 100%;
+}
+
+.overlay-background {
+    background: #F3F3F3;
+}
+
+.overlay-position {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    /*Having z-index as 16 to have the new window on top of old UI and same as error dialog*/
+    z-index: 16;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-center-align {
+    align-items: center;
+    display: flex;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+
+}
+
+.spinner-animation {
+    animation: spin 1s linear infinite;
+}
+
+.secondary-title-text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.text-muted {
+    color: #6c757d !important;
+}
+
+.text-error {
+    color: #AB0000 !important;
+}
+
+.launched-app-image {
+    width: 24px;
+    height: 24px;
+}
+
+.hide {
+    display: none !important;
+}
+
+.primary-button {
+    border: none;
+    cursor: pointer;
+    background: #05758A;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 12px 16px;
+    width: 96px;
+    height: 40px;
+    color: white;
+}
+
+.secondary-button {
+    border: 2px solid #05758A;
+    background: white;
+    cursor: pointer;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 12px 16px;
+    width: auto;
+    margin-left: 10px;
+    height: 46px;
+    color: #05758A;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.primary-icon-button {
+    border: none;
+    cursor: pointer;
+    background: #05758A;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 12px 16px 12px 8px;
+    width: auto;
+    height: 22px;
+    color: white;
+    text-decoration: none;
+    justify-content: center;
+}
+
+.h-30 {
+    height: 30%;
+}
+
+.h-50 {
+    height: 50%;
+}
+
+#cancel-btn {
+    margin-top: 1rem;
+    width: auto;
+}
+
+#loading-overlay-container {
+    height: 15rem;
+    width: 30rem;
+}
+
+#launched-app-details-skeleton {
+    margin-bottom: 1rem;
+}
+
+#cross-icon {
+    height: 18px;
+    width: 18px;
+    margin-top: 12px;
+    margin-right: 30px;
+    position: absolute;
+    right: 0;
+    cursor: pointer;
+}
+
+.flex-col-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.launched-app-title {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.message-holder-skeleton {
+    height: 24px;
+    width: 90%;
+}
+
+.message-holder-container {
+    height: 50px;
+    width: 95%;
+}
+
+.launch-info-msg-skeleton {
+    height: 20px;
+    width: 95%;
+}
+
+.overlay-shadow-box {
+    box-shadow: 0px 1px 24px rgba(0, 0, 0, 0.24);
+    border-radius: 8px;
+    padding: 1rem 2rem;
+}
+
+.position-middle {
+    position: absolute;
+    z-index: 1;
+    margin: 0;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.bg-white {
+    background-color: white;
+}
+
+.block-ellipsis {
+    display: -webkit-box;
+    max-width: 100%;
+    height: 43px;
+    margin: 0;
+    font-size: 14px;
+    line-height: 1.5;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.ellipsis {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+
+.flex-justify-start {
+    justify-content: flex-start;
+}
+
+.flex-justify-center {
+    justify-content: center;
+}
+
+width-50 {
+    width: 50%;
+}
+
+.flex-item-10 {
+    flex: 10%;
+}
+
+.flex-item-8 {
+    flex: 8%;
+}
+
+.flex-item-90 {
+    width: 90%;
+}
+
+.flex-item-91 {
+    width: 91%;
+}
+
+.width-10 {
+    width: 10%;
+}
+
+.width-75 {
+    width: 75%;
+}
+
+.tui-secondary-title-text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+/* downward direction arrow */
+.arrow {
+    background-image: url("../resources/images/arrow.svg");
+    padding-left: 10px;
+    padding-right: 5px;
+    padding-bottom: 8px;
+}
+
+/* it will rotate the downward direction arrow (.arrow class) to upward direction arrow. */
+.arrow.up {
+    transform: rotate(-180deg);
+    -webkit-transform: rotate(-180deg);
+}
+
+.link-btn {
+    all: unset;
+    cursor: pointer;
+    color: #05758A;
+}
+
+.position-right-bottom {
+    position: absolute;
+    bottom: 1em;
+    right: 1em;
+    height: auto;
+
+}
+
+#message-toggle-icon, #status-message-toggle-icon, #status-error-toggle-icon {
+    margin-left: 1rem;
+}
+
+#tui-launched-resource-title {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    width: 14rem;
+}
+
+#launch-notification-container {
+    width: 23rem;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.14);
+    z-index: 16;
+}
+
+#launch-notification-header {
+    padding: 1rem;
+    background: #F9F9F9;
+}
+
+#launch-notification-msg-container {
+    padding: 0.5em 0.5em 0.5em 3.5em;
+    background: white;
+    height: 45px;
+}
+
+#tui-launch-resource-container {
+    height: 1rem;
+}
+
+/*Center to right bottom animation start*/
+@keyframes genie-out {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(0.1);
+        opacity: 0.5;
+    }
+    100% {
+        transform: translateY(100%) translateX(100%) scale(0.1);
+        opacity: 0.5;
+    }
+}
+
+.overlay-close {
+    animation: genie-out 0.5s forwards;
+}
+
+/*Center to right bottom animation end*/
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    #loading-overlay-container {
+        width: 20rem;
+        height: auto;
+    }
+
+    .primary-button, .primary-icon-button {
+        width: 95%;
+    }
+
+    .secondary-button{
+        width: 100%;
+        margin-top: 1rem;
+        margin-left: 0;
+    }
+
+}
+
+.hide-element {
+    border: 0;
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px; 
+}
+
+

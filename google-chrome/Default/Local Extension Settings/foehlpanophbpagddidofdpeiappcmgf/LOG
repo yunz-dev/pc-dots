@@ -1,30 +1,12 @@
-2023/08/18-13:34:47.992 364 Reusing MANIFEST /home/yunz/.config/google-chrome/Default/Local Extension Settings/foehlpanophbpagddidofdpeiappcmgf/MANIFEST-000001
-2023/08/18-13:34:47.992 364 Recovering log #77
-2023/08/18-13:34:48.002 364 Reusing old log /home/yunz/.config/google-chrome/Default/Local Extension Settings/foehlpanophbpagddidofdpeiappcmgf/000077.log 
-2023/08/18-13:34:56.739 33c Level-0 table #82: started
-2023/08/18-13:34:56.751 33c Level-0 table #82: 931250 bytes OK
-2023/08/18-13:34:56.752 33c Delete type=0 #77
-2023/08/18-13:35:43.601 34b Compacting 1@1 + 1@2 files
-2023/08/18-13:35:43.618 34b Generated table #83@1: 13 keys, 469781 bytes
-2023/08/18-13:35:43.618 34b Compacted 1@1 + 1@2 files => 469781 bytes
-2023/08/18-13:35:43.618 34b compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/08/18-13:35:43.619 34b Delete type=2 #82
-2023/08/18-13:35:43.619 34b Delete type=2 #79
-2023/08/18-14:20:25.555 33c Level-0 table #85: started
-2023/08/18-14:20:25.573 33c Level-0 table #85: 809300 bytes OK
-2023/08/18-14:20:25.575 33c Delete type=0 #81
-2023/08/18-14:21:52.282 33c Compacting 1@1 + 1@2 files
-2023/08/18-14:21:52.297 33c Generated table #86@1: 13 keys, 469594 bytes
-2023/08/18-14:21:52.297 33c Compacted 1@1 + 1@2 files => 469594 bytes
-2023/08/18-14:21:52.298 33c compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/08/18-14:21:52.298 33c Delete type=2 #85
-2023/08/18-14:21:52.298 33c Delete type=2 #83
-2023/08/18-14:35:26.383 33c Level-0 table #88: started
-2023/08/18-14:35:26.396 33c Level-0 table #88: 808540 bytes OK
-2023/08/18-14:35:26.397 33c Delete type=0 #84
-2023/08/18-14:37:14.984 33c Compacting 1@1 + 1@2 files
-2023/08/18-14:37:15.008 33c Generated table #89@1: 13 keys, 469169 bytes
-2023/08/18-14:37:15.008 33c Compacted 1@1 + 1@2 files => 469169 bytes
-2023/08/18-14:37:15.009 33c compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/08/18-14:37:15.009 33c Delete type=2 #86
-2023/08/18-14:37:15.009 33c Delete type=2 #88
+2023/08/19-13:34:02.113 4bf Reusing MANIFEST /home/yunz/.config/google-chrome/Default/Local Extension Settings/foehlpanophbpagddidofdpeiappcmgf/MANIFEST-000001
+2023/08/19-13:34:02.113 4bf Recovering log #103
+2023/08/19-13:34:02.117 4bf Reusing old log /home/yunz/.config/google-chrome/Default/Local Extension Settings/foehlpanophbpagddidofdpeiappcmgf/000103.log 
+2023/08/19-14:00:44.922 4c0 Level-0 table #108: started
+2023/08/19-14:00:44.935 4c0 Level-0 table #108: 953270 bytes OK
+2023/08/19-14:00:44.936 4c0 Delete type=0 #103
+2023/08/19-14:08:26.150 4c0 Compacting 1@1 + 1@2 files
+2023/08/19-14:08:26.160 4c0 Generated table #109@1: 13 keys, 469891 bytes
+2023/08/19-14:08:26.160 4c0 Compacted 1@1 + 1@2 files => 469891 bytes
+2023/08/19-14:08:26.161 4c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/19-14:08:26.161 4c0 Delete type=2 #108
+2023/08/19-14:08:26.161 4c0 Delete type=2 #105

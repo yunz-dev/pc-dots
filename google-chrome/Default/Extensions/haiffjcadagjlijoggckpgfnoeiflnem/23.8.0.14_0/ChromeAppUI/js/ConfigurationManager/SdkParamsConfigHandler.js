@@ -1,0 +1,8 @@
+/*Copyright (c) 2014 - 2023 Citrix Systems, Inc.All Rights Reserved. Confidential & Proprietary.
+The materials in this file are protected by copyright and other intellectual property laws.
+Copying and use is permitted only by end users to enable use of Citrix server technology.
+Any other reproduction or use of this file, or any portion of it, is unlicensed.
+In no event may the file be reverse engineered or may copies be made in association with deobfuscation, decompilation or disassembly.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.*/
+
+(function(){class c extends H5C_O['\x47\x62']{constructor(a){super(a);this['\x63\x38']=null;}['\x79\x66'](a){return new Promise((b,d)=>{a&&'\x75\x6e\x64\x65\x66\x69\x6e\x65\x64'!==typeof a['\x4c\x70']&&(this['\x4c\x70']=a['\x4c\x70'],H5C_O['\x69\x62']['\x54\x68']([H5C_O['\x75\x61']['\x53\x44\x4b\x5f\x50\x41\x52\x41\x4d\x53']],'\x73\x65\x74\x43\x6f\x6e\x66\x69\x67',this['\x4c\x70']),this['\x4e\x68']());b();});}['\x72\x63'](a){return new Promise((b,d)=>{this['\x79\x66'](a)['\x66\x69\x6e\x61\x6c\x6c\x79'](()=>{H5C_O['\x69\x62']['\x54\x68']([H5C_O['\x75\x61']['\x53\x44\x4b\x5f\x50\x41\x52\x41\x4d\x53']],'\x67\x65\x74\x43\x6f\x6e\x66\x69\x67',this['\x4c\x70']);b(this['\x4c\x70']);});});}get['\x4c\x70'](){return this['\x63\x38'];}set['\x4c\x70'](a){this['\x63\x38']=a;}}H5C_O['\x63\x73\x61']=c;}());

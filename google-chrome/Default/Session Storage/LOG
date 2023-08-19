@@ -1,15 +1,26 @@
-2023/08/18-13:34:47.754 3 Reusing MANIFEST /home/yunz/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2023/08/18-13:34:47.755 3 Recovering log #47
-2023/08/18-13:34:47.756 3 Reusing old log /home/yunz/.config/google-chrome/Default/Session Storage/000047.log 
-2023/08/18-13:52:22.508 4 Level-0 table #51: started
-2023/08/18-13:52:22.510 4 Level-0 table #51: 17419 bytes OK
-2023/08/18-13:52:22.511 4 Delete type=0 #47
-2023/08/18-13:52:22.512 4 Compacting 4@0 + 1@1 files
-2023/08/18-13:52:22.519 4 Generated table #52@0: 2935 keys, 59436 bytes
-2023/08/18-13:52:22.519 4 Compacted 4@0 + 1@1 files => 59436 bytes
-2023/08/18-13:52:22.520 4 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/08/18-13:52:22.520 4 Delete type=2 #51
-2023/08/18-13:52:22.521 4 Delete type=2 #48
-2023/08/18-13:52:22.521 4 Delete type=2 #40
-2023/08/18-13:52:22.521 4 Delete type=2 #42
-2023/08/18-13:52:22.521 4 Delete type=2 #45
+2023/08/19-13:34:01.864 3 Reusing MANIFEST /home/yunz/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2023/08/19-13:34:01.865 3 Recovering log #74
+2023/08/19-13:34:01.866 3 Level-0 table #77: started
+2023/08/19-13:34:01.869 3 Level-0 table #77: 16212 bytes OK
+2023/08/19-13:34:01.870 3 Delete type=0 #74
+2023/08/19-14:03:27.064 5 Level-0 table #80: started
+2023/08/19-14:03:27.070 5 Level-0 table #80: 76621 bytes OK
+2023/08/19-14:03:27.072 5 Delete type=0 #78
+2023/08/19-14:03:33.865 5 Level-0 table #82: started
+2023/08/19-14:03:33.868 5 Level-0 table #82: 73197 bytes OK
+2023/08/19-14:03:33.870 5 Delete type=0 #79
+2023/08/19-14:03:33.871 5 Compacting 4@0 + 1@1 files
+2023/08/19-14:03:33.887 5 Generated table #83@0: 4614 keys, 234036 bytes
+2023/08/19-14:03:33.887 5 Compacted 4@0 + 1@1 files => 234036 bytes
+2023/08/19-14:03:33.888 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/19-14:03:33.889 5 Delete type=2 #82
+2023/08/19-14:03:33.889 5 Delete type=2 #73
+2023/08/19-14:03:33.889 5 Delete type=2 #80
+2023/08/19-14:03:33.889 5 Delete type=2 #77
+2023/08/19-14:03:33.889 5 Delete type=2 #75
+2023/08/19-14:58:26.311 5 Level-0 table #85: started
+2023/08/19-14:58:26.313 5 Level-0 table #85: 20209 bytes OK
+2023/08/19-14:58:26.314 5 Delete type=0 #81
+2023/08/19-15:31:45.166 5 Level-0 table #87: started
+2023/08/19-15:31:45.168 5 Level-0 table #87: 16424 bytes OK
+2023/08/19-15:31:45.170 5 Delete type=0 #84

@@ -1,0 +1,6 @@
+2023/08/18-18:02:01.349 33d Creating DB /home/yunz/.config/google-chrome/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb since it was missing.
+2023/08/18-18:02:01.353 33d Reusing MANIFEST /home/yunz/.config/google-chrome/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/18-18:02:44.182 33e Level-0 table #5: started
+2023/08/18-18:02:44.182 33e Level-0 table #5: 4545 bytes OK
+2023/08/18-18:02:44.183 33e Delete type=0 #3
+2023/08/18-18:02:44.183 33e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

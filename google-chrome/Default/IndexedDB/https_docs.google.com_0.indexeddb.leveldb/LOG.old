@@ -1,0 +1,7 @@
+2023/08/19-14:22:44.784 4bf Reusing MANIFEST /home/yunz/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/19-14:22:44.784 4bf Recovering log #3
+2023/08/19-14:22:44.785 4bf Reusing old log /home/yunz/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000003.log 
+2023/08/19-14:49:45.457 4c0 Level-0 table #5: started
+2023/08/19-14:49:45.459 4c0 Level-0 table #5: 8464 bytes OK
+2023/08/19-14:49:45.459 4c0 Delete type=0 #3
+2023/08/19-14:49:45.460 4c0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
