@@ -1,0 +1,130 @@
+{
+  "color_subs_according_to_state": true,
+  "autopause_when_hovering_over_subs": true,
+  "mining_enabled": true,
+  "upload_sentences_for_mined_words": true,
+  "upload_screenshots_for_mined_words": true,
+  "upload_audio_for_mined_words": true,
+  "push_mined_words_to_the_front_of_the_review_queue": false,
+  "subtitle_font": "Gothic",
+  "subtitle_font_scale": 150.0,
+  "target_deck": 68,
+  "disable_builtin_on_screen_controls": false,
+  "subtitle_background_opacity": 0.0,
+  "automatically_retime_subtitles": false,
+  "popup_dictionary_font_scale": 100.0,
+  "popup_dictionary_background_opacity": 160.0,
+  "subs_colors": {
+    "default_inner": [
+      238,
+      238,
+      238
+    ],
+    "default_outline": [
+      0,
+      0,
+      0
+    ],
+    "new_not_in_deck_inner": [
+      238,
+      238,
+      238
+    ],
+    "new_not_in_deck_outline": [
+      0,
+      0,
+      0
+    ],
+    "new_in_deck_inner": [
+      255,
+      255,
+      255
+    ],
+    "new_in_deck_outline": [
+      0,
+      0,
+      0
+    ],
+    "known_inner": [
+      238,
+      238,
+      238
+    ],
+    "known_outline": [
+      112,
+      192,
+      0
+    ],
+    "graduated_inner": [
+      238,
+      238,
+      238
+    ],
+    "graduated_outline": [
+      112,
+      192,
+      0
+    ],
+    "learning_inner": [
+      238,
+      238,
+      238
+    ],
+    "learning_outline": [
+      96,
+      170,
+      130
+    ],
+    "due_inner": [
+      238,
+      238,
+      238
+    ],
+    "due_outline": [
+      109,
+      42,
+      42
+    ],
+    "failed_inner": [
+      238,
+      238,
+      238
+    ],
+    "failed_outline": [
+      255,
+      192,
+      0
+    ],
+    "blacklisted_inner": [
+      187,
+      187,
+      187
+    ],
+    "blacklisted_outline": [
+      0,
+      0,
+      0
+    ],
+    "suspended_inner": [
+      238,
+      238,
+      238
+    ],
+    "suspended_outline": [
+      0,
+      0,
+      0
+    ],
+    "locked_inner": [
+      238,
+      238,
+      238
+    ],
+    "locked_outline": [
+      0,
+      0,
+      0
+    ]
+  },
+  "write_debug_logs_to_disk": false
+}

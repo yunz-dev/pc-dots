@@ -1,3 +1,15 @@
-2023/08/19-15:18:28.735 4c0 Reusing MANIFEST /home/yunz/.config/google-chrome/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/08/19-15:18:28.735 4c0 Recovering log #32
-2023/08/19-15:18:28.737 4c0 Reusing old log /home/yunz/.config/google-chrome/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/000032.log 
+2023/08/24-11:48:19.917 a7f Reusing MANIFEST /home/yunz/.config/google-chrome/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/24-11:48:19.917 a7f Recovering log #37
+2023/08/24-11:48:19.918 a7f Reusing old log /home/yunz/.config/google-chrome/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/000037.log 
+2023/08/24-11:57:19.553 a7f Level-0 table #42: started
+2023/08/24-11:57:19.555 a7f Level-0 table #42: 188023 bytes OK
+2023/08/24-11:57:19.556 a7f Delete type=0 #37
+2023/08/24-11:57:19.556 a7f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/08/24-11:57:19.556 a7f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x05\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x007\x008\x009\x007\x008\x008\x004\x007\x001\x001\x004\x000\x00:\x00w\x00e\x00b\x00:\x007\x00e\x003\x001\x00b\x001\x005\x009\x005\x009\x00d\x006\x008\x00a\x00c\x000\x00a\x005\x001\x004\x007\x001' @ 1499 : 1
+2023/08/24-11:57:19.557 a7f Compacting 1@1 + 1@2 files
+2023/08/24-11:57:19.558 a7f Generated table #43@1: 54 keys, 9195 bytes
+2023/08/24-11:57:19.558 a7f Compacted 1@1 + 1@2 files => 9195 bytes
+2023/08/24-11:57:19.558 a7f compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/24-11:57:19.558 a7f Delete type=2 #42
+2023/08/24-11:57:19.558 a7f Delete type=2 #39
+2023/08/24-11:57:19.558 a7f Manual compaction at level-1 from '\x00\x05\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x007\x008\x009\x007\x008\x008\x004\x007\x001\x001\x004\x000\x00:\x00w\x00e\x00b\x00:\x007\x00e\x003\x001\x00b\x001\x005\x009\x005\x009\x00d\x006\x008\x00a\x00c\x000\x00a\x005\x001\x004\x007\x001' @ 1499 : 1 .. (end); will stop at (end)

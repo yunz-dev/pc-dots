@@ -1,3 +1,15 @@
-2023/08/16-18:48:07.077 1386d Reusing MANIFEST /home/yunz/.config/google-chrome/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/08/16-18:48:07.077 1386d Recovering log #4
-2023/08/16-18:48:07.078 1386d Reusing old log /home/yunz/.config/google-chrome/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/000004.log 
+2023/08/22-21:26:26.072 371 Reusing MANIFEST /home/yunz/.config/google-chrome/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/22-21:26:26.072 371 Recovering log #7
+2023/08/22-21:26:26.072 371 Reusing old log /home/yunz/.config/google-chrome/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/000007.log 
+2023/08/22-21:26:30.237 372 Level-0 table #12: started
+2023/08/22-21:26:30.237 372 Level-0 table #12: 943 bytes OK
+2023/08/22-21:26:30.238 372 Delete type=0 #7
+2023/08/22-21:26:30.238 372 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/08/22-21:26:30.239 372 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x05\x00o\x00p\x00t\x00i\x00n' @ 152 : 1
+2023/08/22-21:26:30.239 372 Compacting 1@1 + 1@2 files
+2023/08/22-21:26:30.239 372 Generated table #13@1: 34 keys, 767 bytes
+2023/08/22-21:26:30.239 372 Compacted 1@1 + 1@2 files => 767 bytes
+2023/08/22-21:26:30.240 372 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/22-21:26:30.240 372 Delete type=2 #9
+2023/08/22-21:26:30.240 372 Delete type=2 #12
+2023/08/22-21:26:30.240 372 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x05\x00o\x00p\x00t\x00i\x00n' @ 152 : 1 .. (end); will stop at (end)

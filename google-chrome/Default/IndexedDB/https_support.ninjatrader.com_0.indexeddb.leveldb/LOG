@@ -1,0 +1,6 @@
+2023/08/22-15:49:14.774 371 Creating DB /home/yunz/.config/google-chrome/Default/IndexedDB/https_support.ninjatrader.com_0.indexeddb.leveldb since it was missing.
+2023/08/22-15:49:14.776 371 Reusing MANIFEST /home/yunz/.config/google-chrome/Default/IndexedDB/https_support.ninjatrader.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/22-15:49:32.516 372 Level-0 table #5: started
+2023/08/22-15:49:32.530 372 Level-0 table #5: 1735110 bytes OK
+2023/08/22-15:49:32.531 372 Delete type=0 #3
+2023/08/22-15:49:32.532 372 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,3 +1,6 @@
-2023/08/18-20:00:17.488 5cee Reusing MANIFEST /home/yunz/.config/google-chrome/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/08/18-20:00:17.488 5cee Recovering log #4
-2023/08/18-20:00:17.488 5cee Reusing old log /home/yunz/.config/google-chrome/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000004.log 
+2023/08/22-03:13:57.947 473 Reusing MANIFEST /home/yunz/.config/google-chrome/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/22-03:13:57.948 473 Recovering log #4
+2023/08/22-03:13:57.959 473 Reusing old log /home/yunz/.config/google-chrome/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000004.log 
+2023/08/22-03:33:10.846 466 Level-0 table #8: started
+2023/08/22-03:33:10.861 466 Level-0 table #8: 1345481 bytes OK
+2023/08/22-03:33:10.862 466 Delete type=0 #4

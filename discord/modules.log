@@ -1009,3 +1009,231 @@
 2023-08-19T05:52:32.902Z [Modules] Host is up to date.
 2023-08-19T05:52:32.903Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
 2023-08-19T05:52:32.921Z [Modules] No module updates available.
+2023-08-19T06:52:32.612Z [Modules] Checking for host updates.
+2023-08-19T06:52:32.861Z [Modules] Host is up to date.
+2023-08-19T06:52:32.861Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T06:52:32.880Z [Modules] No module updates available.
+2023-08-19T08:37:46.698Z [Modules] Modules initializing
+2023-08-19T08:37:46.699Z [Modules] Distribution: remote
+2023-08-19T08:37:46.700Z [Modules] Host updates: enabled
+2023-08-19T08:37:46.700Z [Modules] Module updates: enabled
+2023-08-19T08:37:46.700Z [Modules] Module install path: /home/yunz/.config/discord/0.0.28/modules
+2023-08-19T08:37:46.700Z [Modules] Module installed file path: /home/yunz/.config/discord/0.0.28/modules/installed.json
+2023-08-19T08:37:46.700Z [Modules] Module download path: /home/yunz/.config/discord/0.0.28/modules/pending
+2023-08-19T08:37:46.943Z [Modules] No updates to install
+2023-08-19T08:37:46.945Z [Modules] Checking for host updates.
+2023-08-19T08:37:53.280Z [Modules] Host is up to date.
+2023-08-19T08:37:53.280Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T08:37:53.303Z [Modules] No module updates available.
+2023-08-19T08:37:55.614Z [Modules] Checking for host updates.
+2023-08-19T08:37:55.905Z [Modules] Host is up to date.
+2023-08-19T08:37:55.906Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T08:37:55.910Z [Modules] No module updates available.
+2023-08-19T11:24:21.559Z [Modules] Modules initializing
+2023-08-19T11:24:21.560Z [Modules] Distribution: remote
+2023-08-19T11:24:21.560Z [Modules] Host updates: enabled
+2023-08-19T11:24:21.560Z [Modules] Module updates: enabled
+2023-08-19T11:24:21.561Z [Modules] Module install path: /home/yunz/.config/discord/0.0.28/modules
+2023-08-19T11:24:21.561Z [Modules] Module installed file path: /home/yunz/.config/discord/0.0.28/modules/installed.json
+2023-08-19T11:24:21.561Z [Modules] Module download path: /home/yunz/.config/discord/0.0.28/modules/pending
+2023-08-19T11:24:21.759Z [Modules] No updates to install
+2023-08-19T11:24:21.760Z [Modules] Checking for host updates.
+2023-08-19T11:24:22.196Z [Modules] Host is up to date.
+2023-08-19T11:24:22.196Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T11:24:22.443Z [Modules] No module updates available.
+2023-08-19T11:24:24.581Z [Modules] Checking for host updates.
+2023-08-19T11:24:24.923Z [Modules] Host is up to date.
+2023-08-19T11:24:24.923Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T11:24:24.930Z [Modules] No module updates available.
+2023-08-19T12:24:24.583Z [Modules] Checking for host updates.
+2023-08-19T12:24:24.925Z [Modules] Host is up to date.
+2023-08-19T12:24:24.925Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T12:24:24.955Z [Modules] No module updates available.
+2023-08-19T13:24:24.583Z [Modules] Checking for host updates.
+2023-08-19T13:24:24.821Z [Modules] Host is up to date.
+2023-08-19T13:24:24.822Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T13:24:24.842Z [Modules] No module updates available.
+2023-08-19T14:24:24.583Z [Modules] Checking for host updates.
+2023-08-19T14:24:24.916Z [Modules] Host is up to date.
+2023-08-19T14:24:24.916Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T14:24:24.934Z [Modules] No module updates available.
+2023-08-19T15:24:24.582Z [Modules] Checking for host updates.
+2023-08-19T15:24:24.913Z [Modules] Host is up to date.
+2023-08-19T15:24:24.913Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T15:24:24.930Z [Modules] No module updates available.
+2023-08-19T16:24:24.581Z [Modules] Checking for host updates.
+2023-08-19T16:24:24.849Z [Modules] Host is up to date.
+2023-08-19T16:24:24.849Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T16:24:24.868Z [Modules] No module updates available.
+2023-08-21T06:50:56.108Z [Modules] Modules initializing
+2023-08-21T06:50:56.109Z [Modules] Distribution: remote
+2023-08-21T06:50:56.109Z [Modules] Host updates: enabled
+2023-08-21T06:50:56.109Z [Modules] Module updates: enabled
+2023-08-21T06:50:56.110Z [Modules] Module install path: /home/yunz/.config/discord/0.0.28/modules
+2023-08-21T06:50:56.110Z [Modules] Module installed file path: /home/yunz/.config/discord/0.0.28/modules/installed.json
+2023-08-21T06:50:56.110Z [Modules] Module download path: /home/yunz/.config/discord/0.0.28/modules/pending
+2023-08-21T06:50:56.358Z [Modules] No updates to install
+2023-08-21T06:50:56.359Z [Modules] Checking for host updates.
+2023-08-21T06:50:56.684Z [Modules] Host is up to date.
+2023-08-21T06:50:56.684Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-21T06:50:56.706Z [Modules] No module updates available.
+2023-08-21T06:50:58.839Z [Modules] Checking for host updates.
+2023-08-21T06:50:59.134Z [Modules] Host is up to date.
+2023-08-21T06:50:59.134Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-21T06:50:59.140Z [Modules] No module updates available.
+2023-08-21T10:02:33.922Z [Modules] Modules initializing
+2023-08-21T10:02:33.923Z [Modules] Distribution: remote
+2023-08-21T10:02:33.923Z [Modules] Host updates: enabled
+2023-08-21T10:02:33.923Z [Modules] Module updates: enabled
+2023-08-21T10:02:33.924Z [Modules] Module install path: /home/yunz/.config/discord/0.0.28/modules
+2023-08-21T10:02:33.924Z [Modules] Module installed file path: /home/yunz/.config/discord/0.0.28/modules/installed.json
+2023-08-21T10:02:33.924Z [Modules] Module download path: /home/yunz/.config/discord/0.0.28/modules/pending
+2023-08-21T10:02:34.126Z [Modules] No updates to install
+2023-08-21T10:02:34.126Z [Modules] Checking for host updates.
+2023-08-21T10:02:34.535Z [Modules] Host is up to date.
+2023-08-21T10:02:34.535Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-21T10:02:34.554Z [Modules] No module updates available.
+2023-08-21T10:02:36.575Z [Modules] Checking for host updates.
+2023-08-21T10:02:36.889Z [Modules] Host is up to date.
+2023-08-21T10:02:36.889Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-21T10:02:36.894Z [Modules] No module updates available.
+2023-08-21T11:21:39.224Z [Modules] Modules initializing
+2023-08-21T11:21:39.225Z [Modules] Distribution: remote
+2023-08-21T11:21:39.225Z [Modules] Host updates: enabled
+2023-08-21T11:21:39.225Z [Modules] Module updates: enabled
+2023-08-21T11:21:39.225Z [Modules] Module install path: /home/yunz/.config/discord/0.0.28/modules
+2023-08-21T11:21:39.226Z [Modules] Module installed file path: /home/yunz/.config/discord/0.0.28/modules/installed.json
+2023-08-21T11:21:39.226Z [Modules] Module download path: /home/yunz/.config/discord/0.0.28/modules/pending
+2023-08-21T11:21:39.426Z [Modules] No updates to install
+2023-08-21T11:21:39.427Z [Modules] Checking for host updates.
+2023-08-21T11:21:39.787Z [Modules] Host is up to date.
+2023-08-21T11:21:39.788Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-21T11:21:39.824Z [Modules] No module updates available.
+2023-08-21T11:21:42.368Z [Modules] Checking for host updates.
+2023-08-21T11:21:42.625Z [Modules] Host is up to date.
+2023-08-21T11:21:42.625Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-21T11:21:42.630Z [Modules] No module updates available.
+2023-08-21T12:21:42.369Z [Modules] Checking for host updates.
+2023-08-21T12:21:42.642Z [Modules] Host is up to date.
+2023-08-21T12:21:42.642Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-21T12:21:42.660Z [Modules] No module updates available.
+2023-08-21T17:15:39.188Z [Modules] Modules initializing
+2023-08-21T17:15:39.189Z [Modules] Distribution: remote
+2023-08-21T17:15:39.189Z [Modules] Host updates: enabled
+2023-08-21T17:15:39.189Z [Modules] Module updates: enabled
+2023-08-21T17:15:39.190Z [Modules] Module install path: /home/yunz/.config/discord/0.0.28/modules
+2023-08-21T17:15:39.190Z [Modules] Module installed file path: /home/yunz/.config/discord/0.0.28/modules/installed.json
+2023-08-21T17:15:39.190Z [Modules] Module download path: /home/yunz/.config/discord/0.0.28/modules/pending
+2023-08-21T17:15:39.426Z [Modules] No updates to install
+2023-08-21T17:15:39.426Z [Modules] Checking for host updates.
+2023-08-21T17:15:39.851Z [Modules] Host is up to date.
+2023-08-21T17:15:39.852Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-21T17:15:39.873Z [Modules] No module updates available.
+2023-08-21T17:15:42.100Z [Modules] Checking for host updates.
+2023-08-21T17:15:42.410Z [Modules] Host is up to date.
+2023-08-21T17:15:42.410Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-21T17:15:42.416Z [Modules] No module updates available.
+2023-08-22T04:35:11.163Z [Modules] Modules initializing
+2023-08-22T04:35:11.164Z [Modules] Distribution: remote
+2023-08-22T04:35:11.164Z [Modules] Host updates: enabled
+2023-08-22T04:35:11.164Z [Modules] Module updates: enabled
+2023-08-22T04:35:11.165Z [Modules] Module install path: /home/yunz/.config/discord/0.0.28/modules
+2023-08-22T04:35:11.165Z [Modules] Module installed file path: /home/yunz/.config/discord/0.0.28/modules/installed.json
+2023-08-22T04:35:11.165Z [Modules] Module download path: /home/yunz/.config/discord/0.0.28/modules/pending
+2023-08-22T04:35:11.407Z [Modules] No updates to install
+2023-08-22T04:35:11.408Z [Modules] Checking for host updates.
+2023-08-22T04:35:11.803Z [Modules] Host is up to date.
+2023-08-22T04:35:11.804Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-22T04:35:12.108Z [Modules] No module updates available.
+2023-08-22T04:35:15.812Z [Modules] Checking for host updates.
+2023-08-22T04:35:16.101Z [Modules] Host is up to date.
+2023-08-22T04:35:16.102Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-22T04:35:16.106Z [Modules] No module updates available.
+2023-08-22T05:35:15.814Z [Modules] Checking for host updates.
+2023-08-22T05:35:16.090Z [Modules] Host is up to date.
+2023-08-22T05:35:16.090Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-22T05:35:16.114Z [Modules] No module updates available.
+2023-08-22T06:35:15.814Z [Modules] Checking for host updates.
+2023-08-22T06:35:16.097Z [Modules] Host is up to date.
+2023-08-22T06:35:16.097Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-22T06:35:16.118Z [Modules] No module updates available.
+2023-08-22T07:35:15.814Z [Modules] Checking for host updates.
+2023-08-22T07:35:16.065Z [Modules] Host is up to date.
+2023-08-22T07:35:16.065Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-22T07:35:16.084Z [Modules] No module updates available.
+2023-08-22T08:35:15.814Z [Modules] Checking for host updates.
+2023-08-22T08:35:16.063Z [Modules] Host is up to date.
+2023-08-22T08:35:16.063Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-22T08:35:16.192Z [Modules] No module updates available.
+2023-08-22T09:35:15.814Z [Modules] Checking for host updates.
+2023-08-22T09:35:16.057Z [Modules] Host is up to date.
+2023-08-22T09:35:16.057Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-22T09:35:16.082Z [Modules] No module updates available.
+2023-08-22T10:35:15.814Z [Modules] Checking for host updates.
+2023-08-22T10:35:16.092Z [Modules] Host is up to date.
+2023-08-22T10:35:16.093Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-22T10:35:16.112Z [Modules] No module updates available.
+2023-08-22T11:35:15.813Z [Modules] Checking for host updates.
+2023-08-22T11:35:16.088Z [Modules] Host is up to date.
+2023-08-22T11:35:16.088Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-22T11:35:16.109Z [Modules] No module updates available.
+2023-08-22T12:35:15.813Z [Modules] Checking for host updates.
+2023-08-22T12:35:16.158Z [Modules] Host is up to date.
+2023-08-22T12:35:16.158Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-22T12:35:16.465Z [Modules] No module updates available.
+2023-08-22T13:35:15.814Z [Modules] Checking for host updates.
+2023-08-22T13:35:16.053Z [Modules] Host is up to date.
+2023-08-22T13:35:16.053Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-22T13:35:16.281Z [Modules] No module updates available.
+2023-08-23T08:36:55.863Z [Modules] Modules initializing
+2023-08-23T08:36:55.864Z [Modules] Distribution: remote
+2023-08-23T08:36:55.864Z [Modules] Host updates: enabled
+2023-08-23T08:36:55.864Z [Modules] Module updates: enabled
+2023-08-23T08:36:55.864Z [Modules] Module install path: /home/yunz/.config/discord/0.0.28/modules
+2023-08-23T08:36:55.865Z [Modules] Module installed file path: /home/yunz/.config/discord/0.0.28/modules/installed.json
+2023-08-23T08:36:55.865Z [Modules] Module download path: /home/yunz/.config/discord/0.0.28/modules/pending
+2023-08-23T08:36:56.110Z [Modules] No updates to install
+2023-08-23T08:36:56.111Z [Modules] Checking for host updates.
+2023-08-23T08:36:56.548Z [Modules] Host is up to date.
+2023-08-23T08:36:56.549Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-23T08:36:56.566Z [Modules] No module updates available.
+2023-08-23T08:37:00.170Z [Modules] Checking for host updates.
+2023-08-23T08:37:00.438Z [Modules] Host is up to date.
+2023-08-23T08:37:00.438Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-23T08:37:00.443Z [Modules] No module updates available.
+2023-08-23T09:37:00.172Z [Modules] Checking for host updates.
+2023-08-23T09:37:00.484Z [Modules] Host is up to date.
+2023-08-23T09:37:00.485Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-23T09:37:00.513Z [Modules] No module updates available.
+2023-08-24T01:32:20.199Z [Modules] Modules initializing
+2023-08-24T01:32:20.200Z [Modules] Distribution: remote
+2023-08-24T01:32:20.200Z [Modules] Host updates: enabled
+2023-08-24T01:32:20.200Z [Modules] Module updates: enabled
+2023-08-24T01:32:20.201Z [Modules] Module install path: /home/yunz/.config/discord/0.0.28/modules
+2023-08-24T01:32:20.201Z [Modules] Module installed file path: /home/yunz/.config/discord/0.0.28/modules/installed.json
+2023-08-24T01:32:20.201Z [Modules] Module download path: /home/yunz/.config/discord/0.0.28/modules/pending
+2023-08-24T01:32:20.457Z [Modules] No updates to install
+2023-08-24T01:32:20.457Z [Modules] Checking for host updates.
+2023-08-24T01:32:20.828Z [Modules] Host is up to date.
+2023-08-24T01:32:20.828Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-24T01:32:20.848Z [Modules] No module updates available.
+2023-08-24T01:32:24.453Z [Modules] Checking for host updates.
+2023-08-24T01:32:24.718Z [Modules] Host is up to date.
+2023-08-24T01:32:24.718Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-24T01:32:24.723Z [Modules] No module updates available.
+2023-08-27T21:07:13.415Z [Modules] Modules initializing
+2023-08-27T21:07:13.416Z [Modules] Distribution: remote
+2023-08-27T21:07:13.416Z [Modules] Host updates: enabled
+2023-08-27T21:07:13.417Z [Modules] Module updates: enabled
+2023-08-27T21:07:13.417Z [Modules] Module install path: /home/yunz/.config/discord/0.0.28/modules
+2023-08-27T21:07:13.417Z [Modules] Module installed file path: /home/yunz/.config/discord/0.0.28/modules/installed.json
+2023-08-27T21:07:13.417Z [Modules] Module download path: /home/yunz/.config/discord/0.0.28/modules/pending
+2023-08-27T21:07:13.625Z [Modules] No updates to install
+2023-08-27T21:07:13.626Z [Modules] Checking for host updates.
+2023-08-27T21:07:14.012Z [Modules] Host is up to date.
+2023-08-27T21:07:14.012Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-27T21:07:14.318Z [Modules] No module updates available.
+2023-08-27T21:07:18.735Z [Modules] Checking for host updates.
+2023-08-27T21:07:19.137Z [Modules] Host is up to date.
+2023-08-27T21:07:19.137Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-27T21:07:19.169Z [Modules] No module updates available.

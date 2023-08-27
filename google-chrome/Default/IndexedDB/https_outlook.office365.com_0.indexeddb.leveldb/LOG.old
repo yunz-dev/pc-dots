@@ -1,0 +1,24 @@
+2023/08/21-13:28:55.880 351 Reusing MANIFEST /home/yunz/.config/google-chrome/Default/IndexedDB/https_outlook.office365.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/21-13:28:55.880 351 Recovering log #10
+2023/08/21-13:28:55.880 351 Reusing old log /home/yunz/.config/google-chrome/Default/IndexedDB/https_outlook.office365.com_0.indexeddb.leveldb/000010.log 
+2023/08/21-13:28:56.138 35d Level-0 table #14: started
+2023/08/21-13:28:56.139 35d Level-0 table #14: 1778 bytes OK
+2023/08/21-13:28:56.139 35d Delete type=0 #10
+2023/08/21-13:28:56.139 351 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 199 : 1
+2023/08/21-13:28:56.139 351 Compacting 1@0 + 1@1 files
+2023/08/21-13:28:56.140 351 Generated table #15@0: 41 keys, 5862 bytes
+2023/08/21-13:28:56.140 351 Compacted 1@0 + 1@1 files => 5862 bytes
+2023/08/21-13:28:56.141 351 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/21-13:28:56.141 351 Delete type=2 #14
+2023/08/21-13:28:56.141 351 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 199 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/08/21-13:28:56.141 351 Level-0 table #17: started
+2023/08/21-13:28:56.142 351 Level-0 table #17: 489 bytes OK
+2023/08/21-13:28:56.142 351 Delete type=0 #13
+2023/08/21-13:28:56.142 351 Delete type=2 #11
+2023/08/21-13:28:56.142 351 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 248 : 0
+2023/08/21-13:28:56.142 351 Compacting 1@0 + 1@1 files
+2023/08/21-13:28:56.143 351 Generated table #18@0: 40 keys, 5792 bytes
+2023/08/21-13:28:56.143 351 Compacted 1@0 + 1@1 files => 5792 bytes
+2023/08/21-13:28:56.144 351 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/21-13:28:56.144 351 Delete type=2 #17
+2023/08/21-13:28:56.144 351 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 248 : 0 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
